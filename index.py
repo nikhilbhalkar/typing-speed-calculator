@@ -1,1 +1,1 @@
-print("Wrong input 1")
+print("Wrong input 5")
